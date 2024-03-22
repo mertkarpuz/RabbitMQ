@@ -1,0 +1,12 @@
+{
+  "ConnectionStrings": {
+    "MsSqlConnection": "server=37.131.255.156; user=aeradmin; password=rXkT84YV; database=Newbie; Encrypt=True; TrustServerCertificate=True;"
+  },
+  "RabbitMQ": {
+    "HostName": "rabbitmq.amvgtech.com",
+    "Port": "5672",
+    "UserName": "rabbitexample",
+    "Password": "6gYWV3Hv",
+    "EmailQueue": "testQueue"
+  }
+}
